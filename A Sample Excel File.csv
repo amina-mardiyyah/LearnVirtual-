@@ -1,0 +1,15 @@
+OUTLOOK,TEMPERATURE,HUMIDITY,WIND,PLAY CRICKET OR NOT
+Sunny,Hot,High,Weak,No
+Sunny,Hot,High,Strong,No
+Overcast,Hot,High,Weak,Yes
+Rainy,Mild,High,Weak,Yes
+Rainy,Cool,NormaL,Weak,Yes
+Rainy,Cool,NormaL,Strong,No
+Overcast,Cool,NormaL,Strong,Yes
+Sunny,Mild,High,Weak,No
+Sunny,Cool,NormaL,Weak,Yes
+Rainy,Mild,NormaL,Weak,Yes
+Sunny,MIld,NormaL,Strong,Yes
+Overcast,MIld,High,Strong,Yes
+Overcast,Hot,NormaL,Weak,Yes
+Rainy,MIld,High,Strong,No
